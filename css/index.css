@@ -68,6 +68,7 @@ body {
   display: flex;
   padding: 15px;
   padding-left: 15px;
+  padding-left: 0px;
 }
 .rated-star .stars1 img,
 .stars2 img,
@@ -94,8 +95,8 @@ body {
 .card-2,
 .card-3 {
   background: var(--VeryDarkMagenta);
-  width: 350px;
-  margin-left: 20px;
+  width: 340px;
+  margin-left: 25px;
   color: white;
   padding: 30px;
   padding-top: 40px;
@@ -141,9 +142,9 @@ body {
 .cartas .card-1 .text,
 .card-2 .text,
 .card-3 .text {
-  margin-top: 20px;
+  margin-top: 25px;
   font-weight: 500;
-  font-size: 12px;
+  font-size: 10px;
   line-height: 20px;
   padding-right: 15px;
 }
