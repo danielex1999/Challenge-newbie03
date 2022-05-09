@@ -129,22 +129,23 @@ body {
 .card-2 .container .user h1,
 .card-3 .container .user h1 {
   font-weight: 700;
-  font-size: 14px;
+  font-size: 13px;
 }
 .cartas .card-1 .container .user h2,
 .card-2 .container .user h2,
 .card-3 .container .user h2 {
   font-weight: 400;
-  font-size: 14px;
+  font-size: 13px;
   color: var(--Soft-Pink);
 }
 .cartas .card-1 .text,
 .card-2 .text,
 .card-3 .text {
-  margin-top: 10px;
-  font-weight: 400;
-  font-size: 13px;
+  margin-top: 20px;
+  font-weight: 500;
+  font-size: 12px;
   line-height: 20px;
+  padding-right: 15px;
 }
 .cartas .card-2 {
   margin-top: 110px;
